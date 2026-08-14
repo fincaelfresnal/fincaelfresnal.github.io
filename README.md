@@ -1,5 +1,7 @@
 # Finca El Fresnal 🌿🍷
 
+© 2026 · Creado por [Alberto Díaz Almenta](https://www.linkedin.com/in/alberto-d%C3%ADaz-almenta-a3b50514b/)
+
 Portfolio digital de **Finca El Fresnal**, una pequeña finca de la Sierra de Huelva dedicada a la elaboración artesanal de vinos, licores y otros productos nacidos de la tradición y del territorio.
 
 ---
@@ -103,7 +105,3 @@ Explora nuestra colección y descubre la historia que hay detrás de cada elabor
 > **Sabores que cuidan el territorio.**
 
 Productos artesanales, tradición, sostenibilidad y compromiso con nuestra tierra.
-
----
-
-© 2026 · Creado por [Alberto Díaz Almenta](https://www.linkedin.com/in/alberto-d%C3%ADaz-almenta-a3b50514b/)
